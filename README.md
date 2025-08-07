@@ -1,7 +1,3 @@
-# Energy Consumption Predictor
-
-A classic repository name for this project: **energy-consumption-predictor**
-
 ## Overview
 
 This project is a web application that predicts household energy consumption using machine learning models. Users can input household and environmental parameters, select a prediction model (Random Forest or Linear Regression), and visualize the results with interactive charts.
@@ -24,8 +20,8 @@ This project is a web application that predicts household energy consumption usi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/energy-consumption-predictor.git
-   cd energy-consumption-predictor
+   git clone https://github.com/Rishika03-03/Residential_Energy_Analytics.git
+   cd Residential_Energy_Analytics
    ```
 2. Install dependencies:
    ```bash
@@ -49,6 +45,3 @@ This project is a web application that predicts household energy consumption usi
 - `app.py` - Main Streamlit application
 - `Random_forest_model(2).pkl` - Random Forest model file
 - `Linear_model.pkl` - Linear Regression model file
-
-## License
-This project is for educational and demonstration purposes.
